@@ -1,7 +1,13 @@
 # 2-Link Robotic Manipulator Trajectory Tracking
 
 This project implements the dynamic modeling and control of a planar 2-link robotic manipulator. The primary objective is to enable the robot's end-effector to track a predefined circular trajectory in the Cartesian plane using a Computed Torque Control (CTC) strategy.
-
+##  Authors
+1.) Ganipisetty Nischal
+2.) Regalla Kowshikh
+3.) Palla Rithik Reddy
+4.) Chanda Akshay Kumar
+5.) Gunda Yaswanth
+6.) Sale Sangameshwar
 ##  Project Overview
 Robotic manipulators require precise control to perform complex tasks. This simulation demonstrates a high-fidelity dynamic model and a non-linear control law designed to minimize tracking errors while handling the complex physics of multi-link systems.
 
